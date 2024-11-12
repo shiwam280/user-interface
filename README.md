@@ -9,3 +9,12 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 - **React.js**: React.js is used for building the user interface components.
 - **Node.js**: Node.js is used as the server-side runtime environment.
 
+## To run Frontend
+- npm install for node modules
+- npm start (to start the frontend)
+
+## To run Backend
+- npm install for node modules
+- create a .env file
+- inside the .env file write PORT and MONGO_URL="your mongoDB url"
+- npm start (to start backend)
