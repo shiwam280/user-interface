@@ -10,10 +10,12 @@ This is a simple MERN (MongoDB, Express.js, React.js, Node.js) stack application
 - **Node.js**: Node.js is used as the server-side runtime environment.
 
 ## To run Frontend
+- cd client
 - npm install for node modules
 - npm start (to start the frontend)
 
 ## To run Backend
+- cd server
 - npm install for node modules
 - create a .env file
 - inside the .env file write PORT and MONGO_URL="your mongoDB url"
